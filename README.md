@@ -5,7 +5,7 @@ In this repository, you will find all the informations and the data you need for
 
 ### repository's Architecture 
 
-MolGen2021_Manual			- Manual with all infromations about the practicals. 
+MolGen2023_Manual			- Manual with all infromations about the practicals. 
 
 1_Frogs								- This directory contain all the data for the first project.
 
