@@ -16,7 +16,7 @@ MolGen2023_Manual			- Manual with all infromations about the practicals.
 
 ### Important informations
 
-To be able to install and use all packages required, please **use R version 3.6.x. Do not use R version 4.x.x**.
+To be able to install and use all packages required you may need to **use R version 3.6.x instead of R version 4.x.x**. Consider swithcing version if you have troube installing the packages.
 If you already have an R verison installed on your laptop and want to change, you can find a way to do it [here](https://support.rstudio.com/hc/en-us/articles/200486138-Changing-R-versions-for-the-RStudio-Desktop-IDE).
 
 
